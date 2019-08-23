@@ -18,7 +18,7 @@
 		</buildCommand>
 		<buildCommand>
 			<name>org.eclipse.jdt.core.javabuilder</name>
-			<arguments>
+			<arguments> 
 			</arguments>
 		</buildCommand>
 		<buildCommand>
@@ -31,4 +31,4 @@
 		<nature>com.android.ide.eclipse.adt.AndroidNature</nature>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
-</projectDescription>
+</projectDescription>dd
